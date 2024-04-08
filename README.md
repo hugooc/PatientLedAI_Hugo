@@ -177,7 +177,7 @@ AI Predictions about health risk are no replacement for informed decision-making
 Patients must reserve the right to defy odds, even if odds are not in their own favor.  Patients must have autonomy when it comes to separation of their private lives from decisions about care.  
     </td>
     <td>
-    Patients should be given the chance to make an informed decision to opt out or appeal AI generated decisions. <br><br>
+    <b>Informed decision-making: </b> Patients should be given the opportunity to make informed decisions about opting out of or appealing AI-generated decisions.<br><br>
 
 If a predictive algorithm is used to determine a patient’s access to a certain treatment, there should be a right to appeal the decision.<br><br>
 
