@@ -183,7 +183,7 @@ If a predictive algorithm is used to determine a patient’s access to a certain
 
 For example, AI should not be leveraged to deny care, limit choices, or ration care that is otherwise considered <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8667701/">standard of care</a>.<br><br>
 
-For example, social media posts or online purchases should not be sourced to create “risks scores” about patient behavior or health that are used in clinical practice.  
+<b>Protection for patient privacy: </b> There should be clear boundaries, patient consent, and data protection measures in order to protect patient privacy and ensure that non-medical data does not influence healthcare decisions. For example, social media posts or online purchases should not be sourced to create <i>risks scores</i> about patient behavior or health profiles that are used in clinical practice.  
     </td>
   </tr>
 </table>
