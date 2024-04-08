@@ -178,8 +178,7 @@ Patients must reserve the right to defy odds, even if odds are not in their own 
     </td>
     <td>
     Patients should be given the chance to make an informed decision to opt out or appeal AI generated decisions. <br><br>
-
-If a predictive algorithm is used to determine a patient’s access to a certain treatment, there should be a right to appeal the decision.<br><br>
+    <b>Right to appeal: </b> Patients should have the right to appeal AI-based decisions that determine a person's access to a certain treatment. The appeal process should be transparent and accessible, with human oversight.<br><br>
 
 For example, AI should not be leveraged to deny care, limit choices, or ration care that is otherwise considered <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8667701/">standard of care</a>.<br><br>
 
